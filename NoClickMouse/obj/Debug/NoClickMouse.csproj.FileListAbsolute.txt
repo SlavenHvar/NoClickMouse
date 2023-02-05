@@ -1,0 +1,11 @@
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\bin\Debug\NoClickMouse.exe.config
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\bin\Debug\NoClickMouse.exe
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\bin\Debug\NoClickMouse.pdb
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.csproj.AssemblyReference.cache
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.Form1.resources
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.Properties.Resources.resources
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.csproj.GenerateResource.cache
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.csproj.CoreCompileInputs.cache
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.exe
+C:\Users\ENGINE\source\repos\NoClickMouse\NoClickMouse\obj\Debug\NoClickMouse.pdb
